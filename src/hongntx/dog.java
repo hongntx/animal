@@ -4,7 +4,7 @@ public class dog extends animal{
 
 	@Override
 	public void speak() {
-		System.out.println("meo meo");
+		System.out.println("gau gâu");
 		
 	}
 
